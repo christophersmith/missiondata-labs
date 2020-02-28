@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+image_output/
+imdb_crop/
+model_checkpoint/
+*.h5
+*.csv
